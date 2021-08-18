@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth Example App</string>
+    <string name="detect_bluetooth">근처 블루투스 장비 탐지</string>
+
+</resources>
